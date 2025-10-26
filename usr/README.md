@@ -1,6 +1,6 @@
-# couldai_user_app
+# Tasty Bite Kitchen
 
-A new Flutter project.
+An app that can order food and book reservations.
 
 ## Getting Started
 
